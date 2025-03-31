@@ -1,0 +1,9 @@
+plr_helth = 10;
+image_angle = random(360)
+spread = 1;
+shots = 1;
+jit = 5;
+ff = true;
+rf = true;
+speedstep = 0.1618;
+maxspeed = 100;

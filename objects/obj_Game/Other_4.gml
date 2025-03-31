@@ -1,0 +1,1 @@
+audio_play_sound(snd_Jackal_Star,0,true,0.1);
